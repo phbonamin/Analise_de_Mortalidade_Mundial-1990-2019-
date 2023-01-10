@@ -7,9 +7,9 @@ e infecciosas. Achei interessante pois queria ver os dados de mortalidade antes 
 
 O dataset contém dados sobre diversos países, alguns completos outros não, mas eu resolvi usar as regiões da Organização Mundial da Saúde (WHO) para a análise.
 
-Clicando <a href = "https://en.wikipedia.org/wiki/List_of_WHO_regions" > aqui </a> você pode saber a quais regiões cada pais pertence pode ser consultado em: 
+Clicando <a href = "https://en.wikipedia.org/wiki/List_of_WHO_regions" > aqui </a> você pode saber a quais regiões cada pais pertence. 
 
-O dataset pode está disponível tanto no repositório quanto clicando
+O dataset  está disponível tanto no repositório quanto clicando
 <a href = "https://www.kaggle.com/datasets/madhurpant/world-deaths-and-causes-1990-2019"> aqui </a>
 
 ## 🎯 Destaques
