@@ -46,11 +46,13 @@ Sobre as doenças infecciosas pode-se notar que há uma maior mortalidade em reg
 
 ## 🦠 Doenças Infecciosas vs 🧠 Neurodegenerativas
 
-Se a Mortalidade de doenças neurodegenerativas é menor em paises subdesenvolvidos ou pobres e maior em doenças infecciosas e o inverso para as doenças infecciosas, será que essas estão inversamente correlacionadas?
+Se a Mortalidade de doenças neurodegenerativas é menor em paises subdesenvolvidos ou pobres e maior em doenças infecciosas e o inverso para os paises desenvolvidos , será que essas estão inversamente correlacionadas?
 
 Podemos ver que para algumas regiões isso se confirma na Tuberculose vs Alzheimer:
+
 <img src ="https://imgur.com/0NEsXYb.png">
 
 Porém em outras doenças o mesmo não acontece.
+
 <img src ="https://imgur.com/KF5LlEq.png">
 <img src ="https://imgur.com/cRVGRX9.png">
