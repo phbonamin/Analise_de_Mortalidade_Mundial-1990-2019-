@@ -20,36 +20,37 @@ A região da Europa tinha eliminado a Malaria em 1974, porém a partir 1990 ouve
 
 Para saber mais dessa história clicar <a href = "https://www.euro.who.int/__data/assets/pdf_file/0003/307272/Facsheet-malaria-elimination.pdf"> aqui </a>
 
-<img src = "https://imgur.com/HdvXGF0.png">
+<img src = "https://imgur.com/O40xgRR.png">
 
-Além disso, também vem adotando <a href = "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(19)30074-X/fulltext"> politicas </a> que tem diminuído sua mortalidade por acidentes de trânsito, o que pode ser observado no gráfico abaixo
+Além disso, também vem adotando <a href = "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(19)30074-X/fulltext"> politicas </a> que tem diminuído sua mortalidade por acidentes de trânsito, o que pode ser observado no gráfico abaixo.
 
-<img src = "https://imgur.com/Ui60UkV.png">
+<img src = "https://imgur.com/jPWbwnf.png">
 
 ## 🧠 Doenças Neurodegenerativas
 
-Pode se notar um aumento na mortalidade por doenças neurodegenerativas, mais acentuada em regiões com um maior numero de países desenvolvidos. Isso se deve provavelmente ao aumento da expectativa de vida, porém, não há dados de idade no dataset, para relacionarmos
+Pode se notar um aumento no numero de mortes por doenças neurodegenerativas, mais acentuada em regiões com um maior numero de países desenvolvidos. Isso se deve provavelmente ao aumento da expectativa de vida, porém, não há dados de idade no dataset, para relacionarmos.
 
 <img src = "https://imgur.com/wVCVgN4.png">
 
-<img src = "https://imgur.com/HOgGTXa.png">
+<img src = "https://imgur.com/BGxdUV6.png">
 
 Também foi observada uma correlação entre as duas doenças analisadas, o que era de certa forma esperado, dado que ao visualizarmos os dois gráficos anteriores podemos ver uma tendência.
 
 Não coloquei aqui um gráfico de uma reta, para ser possível observar que todas as regiões tem essa correlação, apesar de os países mais desenvolvidos apresentarem um maior número de mortes.
+
 <img src = "https://imgur.com/6tGlbAJ.png">
 
 ## 🦠 Doenças Infecciosas
 
-Sobre as doenças infecciosas pode-se notar que há uma maior mortalidade em regiões com um maior numero de países subdesenvolvidos ou pobres.Podemos observar isso também quando vemos o gráfico da Malaria, na seção de Destaques.
+Sobre as doenças infecciosas pode-se notar que há um maior numero de mortes em regiões com um maior numero de países subdesenvolvidos ou pobres.Podemos observar isso também quando vemos o gráfico da Malaria, na seção de Destaques.
 
-<img src ="https://imgur.com/lylhrnn.png">
+<img src ="https://imgur.com/ABlMCLj.png">
 
 <img src = "https://imgur.com/DY2fjXU.png">
 
 ## 🦠 Doenças Infecciosas vs 🧠 Neurodegenerativas
 
-Se a Mortalidade de doenças neurodegenerativas é menor em países subdesenvolvidos ou pobres e maior em doenças infecciosas e o inverso para os países desenvolvidos , será que essas estão inversamente correlacionadas?
+Se a o numero de mortes de doenças neurodegenerativas é menor em países subdesenvolvidos ou pobres e maior em doenças infecciosas e o inverso para os países desenvolvidos , será que essas estão inversamente correlacionadas?
 
 Podemos ver que para algumas regiões isso se confirma na Tuberculose vs Alzheimer:
 
