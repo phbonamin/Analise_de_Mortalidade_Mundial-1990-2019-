@@ -30,23 +30,23 @@ Além disso, também vem adotando <a href = "https://www.thelancet.com/journals/
 
 Pode se notar um aumento no numero de mortes por doenças neurodegenerativas, mais acentuada em regiões com um maior numero de países desenvolvidos. Isso se deve provavelmente ao aumento da expectativa de vida, porém, não há dados de idade no dataset, para relacionarmos.
 
-<img src = "https://imgur.com/wVCVgN4.png">
+<img src = "https://imgur.com/mmeFGxq.png">
 
 <img src = "https://imgur.com/BGxdUV6.png">
 
-Também foi observada uma correlação entre as duas doenças analisadas, o que era de certa forma esperado, dado que ao visualizarmos os dois gráficos anteriores podemos ver uma tendência.
+Também foi observada uma correlação entre as duas doenças analisadas, o que era de certa forma esperado, dado que ao visualizarmos os dois gráficos anteriores podemos ver uma tendência de crescimento do número de mortes por independente da região, mas com um maior número nas regiões com países desenvolvidos.
 
-Não coloquei aqui um gráfico de uma reta, para ser possível observar que todas as regiões tem essa correlação, apesar de os países mais desenvolvidos apresentarem um maior número de mortes.
 
 <img src = "https://imgur.com/6tGlbAJ.png">
 
+<img src = "https://imgur.com/YGC0KMz.png">
 ## 🦠 Doenças Infecciosas
 
 Sobre as doenças infecciosas pode-se notar que há um maior numero de mortes em regiões com um maior numero de países subdesenvolvidos ou pobres.Podemos observar isso também quando vemos o gráfico da Malaria, na seção de Destaques.
 
 <img src ="https://imgur.com/ABlMCLj.png">
 
-<img src = "https://imgur.com/DY2fjXU.png">
+<img src = "https://imgur.com/o88NfPk.png">
 
 ## 🦠 Doenças Infecciosas vs 🧠 Neurodegenerativas
 
