@@ -1,4 +1,4 @@
-# EDA Analise de Mortalidade Mundial 1990 2019
+# EDA Analise do Número de mortes Mundialmente 1990 2019
 
 ## ❔ Sobre o projeto
 
@@ -62,7 +62,7 @@ Porém em outras doenças o mesmo não acontece, ou se acontece, acontecem em re
 
 Isso significa portanto, que apesar de podemos afirmar que em algumas regiões para doenças específicas - como a europeia e a americana com relação a tuberculose - que quando o número de mortes por doenças infecciosas cai o de doenças neurodegenerativas aumenta, isso é são casos particulares e não uma tendência global.
 
-## Conclusões
+## 📝 Conclusões
 
 Os dados mostram como algumas políticas já utilizadas foram importantes para a erradicação da Malária e diminuição no número de mortes por acidentes de trânsito na região europeia.
 
